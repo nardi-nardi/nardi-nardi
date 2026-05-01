@@ -92,8 +92,8 @@
 <ul>
   <li>REST API Architecture</li>
   <li>Authentication (JWT, sessions)</li>
+  <li>Ubuntu User</li>
   <li>Linux & Command Line</li>
-  <li>Ubuntu User<li>
   <li>Spreadsheet Analysis (Excel, Sheets)</li>
   <li>Postman & API testing</li>
   <li>Japanese (JLPT N5) & Mandarin (HSK 1)</li>
